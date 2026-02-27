@@ -19,3 +19,13 @@ console.log("1 3 5 7 9");
     console.log("7");
     console.log("9");
 }
+
+{
+    var pares = "0, 2, 4, 6, 8, 10";
+    console.log("Numeros pares: ", pares);
+}
+
+{
+    var impares = "1, 3, 5, 7, 9";
+    console.log("Numeros impares: ", impares);
+}

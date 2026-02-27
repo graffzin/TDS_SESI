@@ -10,3 +10,48 @@ linhas
 de
 comentarios
 */
+
+/* let, const e var sao indicadores de numeros.
+typeof é usado pra identificar o tipo do bglho declarado
+ex:
+let valor = 1500.50
+console.log(typeof valor);
+ai vai retornar no terminal o tipo de declaracao, que nesse caso é number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
