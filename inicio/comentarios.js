@@ -11,7 +11,7 @@ de
 comentarios
 */
 
-/* let, const e var sao indicadores de numeros.
+/* let, const e var sao indicadores de variaveis.
 typeof é usado pra identificar o tipo do bglho declarado
 ex:
 let valor = 1500.50
