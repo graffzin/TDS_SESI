@@ -37,6 +37,9 @@ forma padrao - - - - - - - - atalho eficiente
 x = x + 5                      x += 5
 x = x - 2                      x -= 2 
 x = x * 3                      x *= 3
+x = x / 3                      x /= 3
+x = x % 3                      x %= 3
+
 
 operadores de incremento (++)
 ex:
@@ -53,10 +56,10 @@ itensRestantes--;
 
 and (&&)               or (||)                not(!)        
 
-exige que todas        exige que pelo              
-as condicoes           menos uma   
-sejam                  condicao seja
-verdadeiras            verdadeira  
+exige que todas        exige que pelo         inverte o valor booleano(true vira false e false vira true)  
+as condicoes           menos uma              
+sejam                  condicao seja          
+verdadeiras            verdadeira            
 
 
 
