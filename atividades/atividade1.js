@@ -13,4 +13,4 @@ console.log(typeof preco);
 console.log(typeof estoque);
 
 
-console.log(`Produto: ${produto}, Preco: ${preco}, Tem estoque? ${estoque}.`);
+console.log(`O item ${produto} custa R$ ${preco}\nDisponibilidade: ${estoque}.`);
