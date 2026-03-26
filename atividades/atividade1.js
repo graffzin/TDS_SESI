@@ -11,3 +11,6 @@ let estoque = true;
 console.log(typeof produto);
 console.log(typeof preco);
 console.log(typeof estoque);
+
+
+console.log(`Produto: ${produto}, Preco: ${preco}, Tem estoque? ${estoque}.`);
