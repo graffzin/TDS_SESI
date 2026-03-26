@@ -1,4 +1,4 @@
-const gerarResumoCompra = function(produto) {
+const gerarResumoCompra = function (produto) {
     return `Compra realizada com sucesso! Produto: ${produto}`;
 }
 
