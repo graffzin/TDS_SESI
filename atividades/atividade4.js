@@ -12,15 +12,15 @@ var valorCarrinho = 150;
 let indicadorDesconto = valorCarrinho <= 100  ? "Valor original" : "Voce tem 10% de desconto";
 var valorComDesconto;
 
-console.log(indicadorDesconto);
+console.log (indicadorDesconto);
 
 if (valorCarrinho > 100)
 {
     valorComDesconto = valorCarrinho - valorCarrinho / 10;
-    console.log(`Valor final: ${valorComDesconto} `);
+    console.log (`Valor final: ${valorComDesconto} `);
 }
 
 else
 {
-    console.log(`Valor final: ${valorCarrinho} `);
+    console.log (`Valor final: ${valorCarrinho} `);
 }
