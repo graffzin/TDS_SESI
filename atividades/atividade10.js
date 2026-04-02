@@ -13,5 +13,5 @@ d) exiba o estado final da lista
 const hardwares = ["Placa de video", "Placa mae", "Fonte", "Processador", "Gabinete"];
 
 hardwares.push("SSD");
-hardwares.shift("Placa de video");
+hardwares.shift();
 console.log(hardwares);
