@@ -13,10 +13,10 @@ var idade = 18;
 
 if (idade >= 18 && possuiConvite == true)
 {
-    console.log("Voce tem um convite e idade igual ou superior a 18! Voce esta liberado!")
+    console.log ("Voce tem um convite e idade igual ou superior a 18! Voce esta liberado!")
 }
 
 else 
 {
-    console.log("Voce nao tem um convite e idade igual ou superior a 18! Voce nao esta liberado!")
+    console.log ("Voce nao tem um convite e idade igual ou superior a 18! Voce nao esta liberado!")
 }
