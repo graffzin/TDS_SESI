@@ -10,10 +10,10 @@ b) imprima no output o valor final
 
 */
 
-function exibirValorFinal(valor, taxa)
+function exibirValorFinal (valor, taxa)
 {
     let valorFinal = valor * taxa;
-    console.log(`Valor final:\n${valor} * ${taxa} = ${valorFinal} `);
+    console.log (`Valor final:\n${valor} * ${taxa} = ${valorFinal} `);
 }
 
-exibirValorFinal(50, 5);
+exibirValorFinal (50, 5);
