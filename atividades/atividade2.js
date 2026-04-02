@@ -11,4 +11,4 @@ c) armazene o resultado em uma nova variavel e exiba uma mensagem explicativa
 var idadeCachorro = 5
 var idadeHumanaDoCachorro = idadeCachorro * 7
 
-console.log(`O cachorro tem ${idadeCachorro} anos de idade e a idade humana dele, (multiplicada por 7) é ${idadeHumanaDoCachorro}.`);
+console.log (`O cachorro tem ${idadeCachorro} anos de idade e a idade humana dele, (multiplicada por 7) é ${idadeHumanaDoCachorro}.`);
