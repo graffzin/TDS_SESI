@@ -11,4 +11,4 @@ c) explique (em comentario no codigo) por que voce escolheu o nome da variavel b
 var valorCarrinho = 150, valorComDesconto;
 let indicadorDesconto = valorCarrinho <= 100  ? `Valor original\nValor final: ${valorCarrinho} ` : `Voce tem 10% de desconto!\nValor final: ${valorComDesconto = valorCarrinho - valorCarrinho / 10}`;
 
-console.log(indicadorDesconto);
+console.log (indicadorDesconto);
