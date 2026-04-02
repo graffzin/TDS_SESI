@@ -8,5 +8,5 @@ let produto = "Notebook";
 const preco = 3500;
 let estoque = true;
 
-console.log(typeof produto, typeof preco, typeof estoque);
-console.log(`O item ${produto} custa R$ ${preco}\nDisponibilidade: ${estoque}.`);
+console.log (typeof produto, typeof preco, typeof estoque);
+console.log (`O item ${produto} custa R$ ${preco}\nDisponibilidade: ${estoque}.`);
