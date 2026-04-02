@@ -8,10 +8,10 @@ b) utilize o operador de negacao (!) para inverter o valor da variavel e exibi-l
 
 let estaLigado = true;
 
-console.log(estaLigado);
+console.log (estaLigado);
 
 estaLigado =! true;
 
-console.log(estaLigado);
+console.log (estaLigado);
 
 
