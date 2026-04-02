@@ -1,7 +1,7 @@
 const numeros = [1, 2, 3, 4, 5, 8];
 
 // Desafio: remover o ultimo elemento
-// 2 mintos para realizar
+// 2 minutos para realizar
 
 numeros.pop();
 console.log(numeros);
