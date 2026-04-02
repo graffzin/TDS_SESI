@@ -12,15 +12,15 @@ var notaAluno = 4;
 
 if (notaAluno >= 7)
 {
-    console.log("Aluno aprovado");
+    console.log ("Aluno aprovado");
 }
 
 else if (notaAluno <= 6.9 && notaAluno >= 5)
 {
-    console.log("Aluno de recuperacao");
+    console.log ("Aluno de recuperacao");
 }
 
 else 
 {
-    console.log("Reprovado")
+    console.log ("Reprovado")
 }
