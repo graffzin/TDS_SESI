@@ -11,6 +11,6 @@ c) a cada iteracao, o console deve exibir: "item #(X) verificado e registrado no
 let mercadoria = 1;
 while (mercadoria <= 10) 
 {
-    console.log(`Item #${mercadoria} verificado e registrado no inventario`);
+    console.log (`Item #${mercadoria} verificado e registrado no inventario`);
     mercadoria++;
 }
