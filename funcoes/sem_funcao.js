@@ -1,12 +1,19 @@
-// sintaxe da funcao 
-/*
-function nomeDaFuncao (parametros) {
-    // passos a serem executados
-}
-*/
+// Sintaxe ou Anatomia da Função
+/* function nomeDaFuncao (parâmetros) {
+    // corpo do função
+    // passos a serem executados    
+} */
 
-const produtos = "Notebook";
+// Exibindo dados de produtos SEM usar função
+
+const produto1 = "Notebook";
 const preco1 = 3500;
 
-// Desafio: imprimir produto e preco utilizando template string
-console.log(`Produto: ${produtos}. \nPreco: ${preco1}.`);
+console.log(`Produto: ${produto1}`);
+console.log(`Preço: R$ ${preco1}`);
+
+const produto2 = "Mouse Gamer";
+const preco2 = 150;
+
+console.log(`Produto: ${produto2}`);
+console.log(`Preço: R$ ${preco2}`);
